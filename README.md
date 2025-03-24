@@ -6,7 +6,7 @@ Este proyecto es una API web construida con ASP.NET Core. A continuación se det
 
 ## Requisitos previos
 
-- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 
